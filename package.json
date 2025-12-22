@@ -2,6 +2,7 @@
   "name": "@generouted/repo",
   "packageManager": "pnpm@9.0.0",
   "private": true,
+  "type": "module",
   "description": "Generated client-side file-based routes for Vite",
   "author": "Omar Elhawary <oedotme@gmail.com> (https://omarelhawary.me)",
   "license": "MIT",
